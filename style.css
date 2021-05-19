@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+header{
+    background-color: lightblue;
+}
+nav{
+    background-color:lightblue;
+} 
+h1{
+  font-family: segoe script;
+   color: purple; text-align: center;
+}
+footer{
+   background-color:  lightpink; 
+}
+footer p {
+   border: 5px solid white; 
+}
